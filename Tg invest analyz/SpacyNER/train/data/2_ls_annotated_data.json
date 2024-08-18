@@ -1,0 +1,119 @@
+[
+    {
+        "id": 23864,
+        "annotations": [
+            {
+                "id": 13066,
+                "completed_by": {
+                    "id": 20,
+                    "email": "rebrova.iuv@nsd.ru",
+                    "first_name": "",
+                    "last_name": ""
+                },
+                "result": [
+                    {
+                        "value": {
+                            "start": 381,
+                            "end": 388,
+                            "text": "Покупка",
+                            "labels": [
+                                "ACT"
+                            ]
+                        },
+                        "id": "6nb-3zKyk1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels"
+                    },
+                    {
+                        "value": {
+                            "start": 78,
+                            "end": 84,
+                            "text": "Macy's",
+                            "labels": [
+                                "ORG"
+                            ]
+                        },
+                        "id": "gKjDaIPOcq",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels"
+                    },
+                    {
+                        "value": {
+                            "start": 411,
+                            "end": 414,
+                            "text": "$23",
+                            "labels": [
+                                "PRICE"
+                            ]
+                        },
+                        "id": "CeiZzJ6SLf",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels"
+                    },
+                    {
+                        "value": {
+                            "start": 421,
+                            "end": 429,
+                            "text": "2 месяца",
+                            "labels": [
+                                "TIME"
+                            ]
+                        },
+                        "id": "xH5PnqnVb6",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels"
+                    },
+                    {
+                        "value": {
+                            "start": 457,
+                            "end": 461,
+                            "text": "8,3%",
+                            "labels": [
+                                "PERCENT"
+                            ]
+                        },
+                        "id": "Jq0U5ax-7m",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels"
+                    },
+                    {
+                        "value": {
+                            "start": 392,
+                            "end": 398,
+                            "text": "$21,23",
+                            "labels": [
+                                "PRICE"
+                            ]
+                        },
+                        "id": "UQlaZK92rl",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2023-06-30T20:30:58.618619Z",
+                "updated_at": "2023-06-30T20:30:58.618649Z",
+                "lead_time": 56.06,
+                "prediction": {},
+                "result_count": 0,
+                "task": 23864
+            }
+        ],
+        "predictions": [],
+        "file_upload": "data_z3ozMoS.json",
+        "data": {
+            "text": "Открываем ещё одну краткосрочную инвестидею по акциям американского ритейлера Macy's. Бумаги сильно перепроданы и в дальнейшем могут показать уверенный отскок. Этому может поспособствовать трансформация бизнеса компании с уклоном на развитие онлайн-сегмента. Кроме того, техническая картина в акциях Macy's намекает на высокие шансы отскока от достигнутых уровней поддержки. Идея: Покупка от $21,23. Цель роста $23. Срок 2 месяца. Потенциальная доходность +8,3% (+49,2% годовых)."
+        },
+        "meta": {},
+        "created_at": "2023-06-30T20:08:27.062708Z",
+        "updated_at": "2023-06-30T20:08:27.062717Z",
+        "project": 46
+    }
+]

@@ -1,0 +1,4 @@
+[flake8]
+ignore = E501, W503, E203
+max-line-length = 120
+exclude = .git, .github, .eggs, __pycache__, build, dist, notebooks, .ipynb_checkpoints, data, logs

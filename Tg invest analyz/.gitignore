@@ -1,0 +1,7 @@
+.env
+BD/*
+__pycache__
+exper.py
+test.py
+ignore
+data_temp

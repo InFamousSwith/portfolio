@@ -1,0 +1,10 @@
+fastapi==0.101.1
+nltk==3.6.7
+pandas==1.5.3
+psycopg2==2.9.6
+pydantic==1.8.2
+python-dotenv==1.0.0
+requests==2.27.1
+sql==2022.4.0
+SQLAlchemy==2.0.0b1
+uvicorn==0.20.0
